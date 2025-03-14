@@ -27,3 +27,5 @@ public class Ex04_Foreach {
 		System.out.println();
 	}
 }
+
+

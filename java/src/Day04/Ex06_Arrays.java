@@ -52,6 +52,7 @@ public class Ex06_Arrays {
 			}		
 			
 			
+			
 		
 		sc.close();
 		

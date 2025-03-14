@@ -22,6 +22,7 @@ public class Ex01_Array {
 		int arr3[] = {1,2,3,4,5};
 		
 		
+		
 		// 배열 요소 접근
 		arr[0] = 1;
 		arr[1] = 2;

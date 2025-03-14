@@ -25,6 +25,8 @@ public class Ex02_Max2 {
 		 */
 		
 		//1.
+		
+		
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
 		

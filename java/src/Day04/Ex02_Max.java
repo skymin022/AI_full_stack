@@ -23,6 +23,8 @@ public class Ex02_Max {
 		 * 6. 반복이 끝나고, max를 출력
 		 */
 		
+		
+		
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
 		// int의 최솟값
