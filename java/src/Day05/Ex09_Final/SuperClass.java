@@ -12,7 +12,11 @@ public class SuperClass {
 
 class SubClass extends SuperClass {
 	// * final 메소드는 오버라이딩할 수 없다.
-	
+	/*
+	 * @Override
+	 * pulic final void finalMethod() {
+	 * System.out.println("final 메소드 입니다.");
+	 */
 	
 	
 }
