@@ -55,8 +55,8 @@ public class Ex04_Lotoo {
 		}
 		
 		// 과제 오름차순 정렬
-		for (int i = 0; i < Lotto.length-1 ; i++) {
-			for (int j = 0; j < Lotto.length-1 -i; j++) {
+		for (int i = 0; i < Lotto.length ; i++) {
+			for (int j = 0; j < Lotto.length-1; j++) {
 				if (Lotto[j] > Lotto[j+1]) {
 					int temp = Lotto[j];
 					Lotto[j] = Lotto[j+1];
