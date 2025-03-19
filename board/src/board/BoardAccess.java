@@ -52,20 +52,34 @@ public class BoardAccess implements BoardInterface {
 
 	@Override
 	public Board read(int no) {
-		if(this.count == boardList[count]) {
-		return 
+		if(no < 1 || no > count) {
+			System.out.println("게시글 번호가 유효하지 않습니다.");
+			return null;
+		}
+		return boardList[no-1];
 	}
 
 	@Override
 	public boolean upate(Board board) {
-		
-		return false;
+		if(board.getNo() < 1 || board.getNo() > count) {
+			System.out.println("수정할 게시글 번호가 유효하지 않습니다.");
+			return false;
+		}
+		boardList[board.getNo()-1] = board;
+		System.out.println("게시글이 수정되었습니다.");
+		return true;	
 	}
 
 	@Override
 	public boolean delete(int no) {
+		if (no < 1 || no > count) {
+			System.out.println("삭제할 게시글 번호가 유효하지 않습니다.");
+			return false;
+		}
+		boardList[no-1] = null;	
 		
-		return false;
+		System.out.println("게시글이 삭제되었습니다.");
+		return true;	
 	}
 
 }
