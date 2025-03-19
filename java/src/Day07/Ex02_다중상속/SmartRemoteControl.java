@@ -8,9 +8,12 @@ public interface SmartRemoteControl extends RemoteControl, Microphone {
 	// - x,y 좌표 위치에 터치패드 클릭
 	void touch (int a, int b);
 
-	int channelSearch(String string);
 
 	String[] contentSearch(String keyword);
+
+	int channelSearch(String string);
+
+
 
 
 	
