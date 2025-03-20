@@ -47,7 +47,7 @@ public interface BoardInterface {
 	 * @param board
 	 * @return
 	 */
-	boolean upate(Board board);
+	boolean update(Board board);
 	/**
 	// 데이터 삭제
 	 * - 삭제할 글번호를 전달받아, 삭제할 글번호가 유효하면 게시글 객체를 null로 변경
