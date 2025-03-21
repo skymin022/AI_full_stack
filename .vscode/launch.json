@@ -1,0 +1,784 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "대소문자_바꾸기",
+            "request": "launch",
+            "mainClass": "Progrmmers/_03_20.대소문자_바꾸기",
+            "projectName": "Progrmmers"
+        },
+        {
+            "type": "java",
+            "name": "문자열_뒤집기",
+            "request": "launch",
+            "mainClass": "Progrmmers/_03_20.문자열_뒤집기",
+            "projectName": "Progrmmers"
+        },
+        {
+            "type": "java",
+            "name": "문자열이_몇_번_등장하는지_세기",
+            "request": "launch",
+            "mainClass": "Progrmmers/_03_20.문자열이_몇_번_등장하는지_세기",
+            "projectName": "Progrmmers"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "board/board.Main",
+            "projectName": "board"
+        },
+        {
+            "type": "java",
+            "name": "Ex01_print",
+            "request": "launch",
+            "mainClass": "java/Day01.Ex01_print",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex02_Scanner",
+            "request": "launch",
+            "mainClass": "java/Day01.Ex02_Scanner",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex01_Variable",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex01_Variable",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex02_char",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex02_char",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex03_Byte",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex03_Byte",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex04_int",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex04_int",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex05_Long",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex05_Long",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex06_FloatDouble",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex06_FloatDouble",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex07_boolean",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex07_boolean",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex08_Triangle",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex08_Triangle",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex09_circle",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex09_circle",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex10_AssignmentOperator",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex10_AssignmentOperator",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex11_ArithmeticOperator",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex11_ArithmeticOperator",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex12_PlusMinusOperator",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex12_PlusMinusOperator",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex13_LogicalOperator",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex13_LogicalOperator",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex14_BitOpertaor",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex14_BitOpertaor",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex15_TemaryOperator",
+            "request": "launch",
+            "mainClass": "java/Day02.Ex15_TemaryOperator",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "계산",
+            "request": "launch",
+            "mainClass": "java/Day02.계산",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex01_if",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex01_if",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex02_ifElse",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex02_ifElse",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex03_ElseIf",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex03_ElseIf",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex04_Nested",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex04_Nested",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex04_Nested2",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex04_Nested2",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex04_Nested3",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex04_Nested3",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex05_Switch",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex05_Switch",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex06_Grade",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex06_Grade",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex07_SwitchBreak",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex07_SwitchBreak",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex08_SwitchYield",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex08_SwitchYield",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex09_while",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex09_while",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex10_WhileSum",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex10_WhileSum",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex11_OddEven",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex11_OddEven",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex12_DoWhile",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex12_DoWhile",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex13_For",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex13_For",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex14_Gugu",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex14_Gugu",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex15_GuguAll",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex15_GuguAll",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex16_Continue",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex16_Continue",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex17_Break",
+            "request": "launch",
+            "mainClass": "java/Day03.Ex17_Break",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex01_Array",
+            "request": "launch",
+            "mainClass": "java/Day04.Ex01_Array",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex02_Max",
+            "request": "launch",
+            "mainClass": "java/Day04.Ex02_Max",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex02_Max2",
+            "request": "launch",
+            "mainClass": "java/Day04.Ex02_Max2",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex03_Min",
+            "request": "launch",
+            "mainClass": "java/Day04.Ex03_Min",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex04_Foreach",
+            "request": "launch",
+            "mainClass": "java/Day04.Ex04_Foreach",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex05_Arrays",
+            "request": "launch",
+            "mainClass": "java/Day04.Ex05_Arrays",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex06_Arrays",
+            "request": "launch",
+            "mainClass": "java/Day04.Ex06_Arrays",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex06_Arrays2",
+            "request": "launch",
+            "mainClass": "java/Day04.Ex06_Arrays2",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex07_Enum",
+            "request": "launch",
+            "mainClass": "java/Day04.Ex07_Enum",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex08_Todo",
+            "request": "launch",
+            "mainClass": "java/Day04.Ex08_Todo",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex09_String",
+            "request": "launch",
+            "mainClass": "java/Day04.Ex09_String",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "java/Day05.Ex01_클래스.Main",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "java/Day05.Ex02_생성자.Main",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorTest",
+            "request": "launch",
+            "mainClass": "java/Day05.Ex03_메소드.CalculatorTest",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "CarTest",
+            "request": "launch",
+            "mainClass": "java/Day05.Ex03_메소드.CarTest",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Jiwoo",
+            "request": "launch",
+            "mainClass": "java/Day05.Ex04_상속.Jiwoo",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "CallByReference",
+            "request": "launch",
+            "mainClass": "java/Day05.Ex05_인자전달.CallByReference",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "CallByValue",
+            "request": "launch",
+            "mainClass": "java/Day05.Ex05_인자전달.CallByValue",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Manager",
+            "request": "launch",
+            "mainClass": "java/Day05.Ex06_접근지정자.B.Manager",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "java/Day05.Ex07_캡슐화.Bank",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "StaticMember",
+            "request": "launch",
+            "mainClass": "java/Day05.Ex08_static.StaticMember",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "ShapeMaker",
+            "request": "launch",
+            "mainClass": "java/Day06.Ex01_추상클래스.ShapeMaker",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Driver",
+            "request": "launch",
+            "mainClass": "java/Day06.Ex02_인터페이스.Driver",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "NestedClass",
+            "request": "launch",
+            "mainClass": "java/Day06.Ex03_중첩클래스.NestedClass",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "NestedClass2",
+            "request": "launch",
+            "mainClass": "java/Day06.Ex03_중첩클래스.NestedClass2",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "java/Day06.Ex04_중첩인터페이스.Main",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex01_Mutiple",
+            "request": "launch",
+            "mainClass": "java/Day06.Review.Ex01_Mutiple",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex02_ThreeSixNine",
+            "request": "launch",
+            "mainClass": "java/Day06.Review.Ex02_ThreeSixNine",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex03_화폐매수",
+            "request": "launch",
+            "mainClass": "java/Day06.Review.Ex03_화폐매수",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex04_Lotoo",
+            "request": "launch",
+            "mainClass": "java/Day06.Review.Ex04_Lotoo",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex05_Matrix",
+            "request": "launch",
+            "mainClass": "java/Day06.Review.Ex05_Matrix",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex06_Method",
+            "request": "launch",
+            "mainClass": "java/Day06.Review.Ex06_Method",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "FamilyTest",
+            "request": "launch",
+            "mainClass": "java/Day06.Review.FamilyTest",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Builder",
+            "request": "launch",
+            "mainClass": "java/Day07.Builder.Builder",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousPersonTest",
+            "request": "launch",
+            "mainClass": "java/Day07.Ex01_익명객체.AnonymousPersonTest",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "RemoteControlTest",
+            "request": "launch",
+            "mainClass": "java/Day07.Ex01_익명객체.RemoteControlTest",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "java/Day07.Ex02_다중상속.Main",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "java/Day07.Ex02_다중상속.test",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "DownCasting",
+            "request": "launch",
+            "mainClass": "java/Day07.Ex03_ClassCating.DownCasting",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "UpCasting",
+            "request": "launch",
+            "mainClass": "java/Day07.Ex03_ClassCating.UpCasting",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "SingletonTest",
+            "request": "launch",
+            "mainClass": "java/Day07.Singleton.SingletonTest",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "UpDownCasting",
+            "request": "launch",
+            "mainClass": "java/Day07.UpDownCasting",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "ClassCast",
+            "request": "launch",
+            "mainClass": "java/Day08.Ex01_TryCatch.ClassCast",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "DivideByZero",
+            "request": "launch",
+            "mainClass": "java/Day08.Ex01_TryCatch.DivideByZero",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "IndexOutOfBounds",
+            "request": "launch",
+            "mainClass": "java/Day08.Ex01_TryCatch.IndexOutOfBounds",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "InputMismatch",
+            "request": "launch",
+            "mainClass": "java/Day08.Ex01_TryCatch.InputMismatch",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "NumberFormat",
+            "request": "launch",
+            "mainClass": "java/Day08.Ex01_TryCatch.NumberFormat",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch",
+            "request": "launch",
+            "mainClass": "java/Day08.Ex01_TryCatch.TryCatch",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "다중catch",
+            "request": "launch",
+            "mainClass": "java/Day08.Ex02_다중Catch.다중catch",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "멀티Catch",
+            "request": "launch",
+            "mainClass": "java/Day08.Ex03_멀티catch.멀티Catch",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "AutoClose2",
+            "request": "launch",
+            "mainClass": "java/Day08.Ex04_AutoClose.AutoClose2",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "DirectClose",
+            "request": "launch",
+            "mainClass": "java/Day08.Ex04_AutoClose.DirectClose",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionThrows",
+            "request": "launch",
+            "mainClass": "java/Day08.Ex05_ExceptionThrows.ExceptionThrows",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Bank(1)",
+            "request": "launch",
+            "mainClass": "java/Day08.Ex06_UesrException.Bank",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "java/Day09.Ex01_Object.Person",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "BooleanEx",
+            "request": "launch",
+            "mainClass": "java/Day09.Ex02_Wrapper.BooleanEx",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "CharacterEx",
+            "request": "launch",
+            "mainClass": "java/Day09.Ex02_Wrapper.CharacterEx",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "CompareValue",
+            "request": "launch",
+            "mainClass": "java/Day09.Ex02_Wrapper.CompareValue",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "DoubleEx",
+            "request": "launch",
+            "mainClass": "java/Day09.Ex02_Wrapper.DoubleEx",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "IntegerEx",
+            "request": "launch",
+            "mainClass": "java/Day09.Ex02_Wrapper.IntegerEx",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "MathEx",
+            "request": "launch",
+            "mainClass": "java/Day09.Ex03_Math.MathEx",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "StringEx",
+            "request": "launch",
+            "mainClass": "java/Day09.Ex04_StringEx.StringEx",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "StringBufferEx",
+            "request": "launch",
+            "mainClass": "java/Day09.Ex05_StringBufferEx.StringBufferEx",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderEx",
+            "request": "launch",
+            "mainClass": "java/Day09.Ex06_StringBuilderEX.StringBuilderEx",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "java/Day09.Test",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "codeup",
+            "request": "launch",
+            "mainClass": "java/Day09.codeup",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Key",
+            "request": "launch",
+            "mainClass": "java/단축키.Key",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "java/복습Day01.Ex01",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "test(1)",
+            "request": "launch",
+            "mainClass": "java/복습Day01.test",
+            "projectName": "java"
+        }
+    ]
+}
