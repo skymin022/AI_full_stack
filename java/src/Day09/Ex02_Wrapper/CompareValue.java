@@ -34,7 +34,7 @@ public class CompareValue {
 		System.out.println("equals() 로 비교");
 		System.out.println("결과 : " + (intObj3.equals(intObj4)) );					// True
 		
-		// ==, != 기호로 Wrapper 클래스 객체를 비교하면,
+		// ==, != 기호로 Wrapper 클래스 객체를 비교하하하하면,
 		// 아래의 범위에서는 내부의 값을 ==, != 로 비교할 수 있다.
 		// Boolean		: true, false
 		// 정수 타입		: -128~127
