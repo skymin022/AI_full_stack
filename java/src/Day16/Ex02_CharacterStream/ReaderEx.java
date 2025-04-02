@@ -1,4 +1,4 @@
-package Day15.Ex02_CharacterStream;
+package Day16.Ex02_CharacterStream;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

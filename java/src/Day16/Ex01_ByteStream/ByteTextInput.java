@@ -1,4 +1,4 @@
-package Day15.Ex01_ByteStream;
+package Day16.Ex01_ByteStream;
 
 import java.io.FileInputStream;
 import java.nio.charset.StandardCharsets;

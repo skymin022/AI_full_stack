@@ -89,7 +89,7 @@ public class Ex03_화폐매수 {
 		// 방법2
 		
 
-		
+		sc.close();
 		
 	}
 }

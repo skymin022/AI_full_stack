@@ -79,7 +79,7 @@ public class CalendarLotto {
 		else {
 			System.err.println("구입 가능한 시간에 다시 오세요.");
 		}
-		
+		sc.close();
 		
 	}
 }

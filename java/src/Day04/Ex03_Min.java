@@ -29,7 +29,7 @@ public class Ex03_Min {
 		}
 		//6.
 		System.out.println(min);
-		
+		sc.close();
 		
 	}
 }

@@ -96,10 +96,16 @@ public class Main {
 		System.out.print("글 번호 : ");
 		int no = sc.nextInt();
 		sc.nextLine();
-		// 글번호(no)를 전달하여 게시글 정보 데이터 요청
-		Board board = boardService.select(no);
-		// 게시글 정보 출력
-		print(board);
+		
+		try {
+			// 글번호(no)를 전달하여 게시글 정보 데이터 요청
+			Board board = boardService.select(no);
+			// 게시글 정보 출력
+			print(board);
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 
 	/**

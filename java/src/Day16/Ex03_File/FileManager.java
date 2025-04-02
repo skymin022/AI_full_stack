@@ -1,4 +1,4 @@
-package Day15.Ex03_File;
+package Day16.Ex03_File;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -156,6 +156,8 @@ public class FileManager {
 			System.out.print("저장할 내용을 입력하세요 >> ");
 			String content = sc.nextLine();
 			bw.write(content);
+			bw.close();
+			sc.close();
 			System.out.println("입력받은 문자열을 "+fileName +" 에 저장했습니다.");
 		} catch (Exception e) {
 			e.printStackTrace();

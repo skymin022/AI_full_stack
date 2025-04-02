@@ -44,6 +44,6 @@ public class Ex02_Max {
 			
 		}
 		System.out.println(max);
-		
+		sc.close();
 	}
 }

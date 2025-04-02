@@ -1,6 +1,5 @@
 package Day04;
 
-import java.util.Iterator;
 import java.util.Scanner;
 
 public class Ex02_Max2 {
@@ -50,5 +49,6 @@ public class Ex02_Max2 {
 		}
 		//6.
 		System.out.println(max);
+		sc.close();
 	}
 }
