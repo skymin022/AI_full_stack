@@ -123,13 +123,13 @@ public class Main2 {
         
         
         // 복사,붙여넣기를 활용한 한글입력    
-//        // 문장 입력
-//        robot.delay(200);  // 200ms 대기
-//        String text = "알클.com"; // 입력할 한글
-//        robot.delay(200);  // 500ms 대기
-//        copyToClipboard(text);  // 한글을 클립보드에 복사
-//        pasteWithRobot(robot);  // Ctrl + V 로 붙여넣기
-//        Enter_Delay();
+        // 문장 입력
+        robot.delay(200);  // 200ms 대기
+        String text = "알클.com"; // 입력할 한글
+        robot.delay(200);  // 500ms 대기
+        copyToClipboard(text);  // 한글을 클립보드에 복사
+        pasteWithRobot(robot);  // Ctrl + V 로 붙여넣기
+        Enter_Delay();
         
        
         
@@ -154,17 +154,8 @@ public class Main2 {
 //        Enter_Delay();
         
         
-//        // 구글 로그인
-//        String url2 = "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=ko&ifkv=AXH0vVv8fG9ALU3_excp_ENKbUorCP6IWLjRqlQlpLFts_wgP8slqMEmPAtKvvM1UWqM2nsuoWHs-g&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-47841988%3A1743650284574886";
-//        New_Tab(url2);
-        
-        
-        
-        
-        
-        
-//         세 번째 탭 
-        String url1 = "https://chatgpt.com/";
+        // 세 번째 탭 
+        String url1 = "https://accounts.google.com/v3/signin/identifier?opparams=%253Faudience%253D799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com&dsh=S-466873824%3A1743647682983097&client_id=799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com&ddm=1&nonce=OgJ8SwiJ4tpM2W6TjHLS&o2v=2&redirect_uri=https%3A%2F%2Fauth.openai.com%2Fapi%2Faccounts%2Fcallback%2Fgoogle&response_type=code&scope=openid+profile+email&service=lso&state=facfb849-fdca-4396-b496-1f5c0becba6f&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAN-6vkydQHrnPmRHyUp2HAOUGjC8R0kGB9YzMbpm3kSUrBLbbTlQSEeXgK1ituJ3Drn-3PVbzfZ3Ipp0Ao5QdrfRAz3etx_OpIrXPtVOQr5zqROPCeDgVIjcKgP-pokZkaDTGSS22rQVynqgsjs8r6Btl0_I_jBMxb-DNfGLuF4jRrVivZl0T1XW0G1zGfpu7m9n-R24ZiAOi2dvjigTPCgucExcmbWdDXyYqgwKL0jkQ5uk7OkPZsQtbiAUbmsfRlkNBnR59I7DulsrXcG43s2aT-_gsYcs_XpulKrKuY2ln3Yt1VUfTCM6BacJjyYrRG0LcOfE5kPu4S_cSKAx6jokMzCce2elBrsBBhEpt1KEjjz2QN9QVVSdD6IP7cuRERt59Ol_VB6zE2WCLCFtXEWe3vT2IDpYm1o8UoKtsPm8ZaZYPQfJr786vRRNwFYCEP-Ezn0W5vT6ctIsoRyWt9lGol3rg%26flowName%3DGeneralOAuthFlow%26as%3DS-466873824%253A1743647682983097%26client_id%3D799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fauth.openai.com&rart=ANgoxcfhcdWIBhwbiX8qomfnR19Cn2pepfqv0ndIVwqMk3jjIueCLtIqs9RYwBdIEmCzxs-EGb0B5ZZluhZnYMnLTFz2mGi3HxSJBB2-X2I45Q4HYAtg3xw";
         New_Tab(url1);
         
         // id 입력
