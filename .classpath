@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="src" path="AutoLogin/src"/>
 	<classpathentry kind="src" path="board/src"/>
 	<classpathentry kind="src" path="codeup/_1205"/>
@@ -15,12 +19,6 @@
 	<classpathentry kind="src" path="homework/codeup_homework/_1443"/>
 	<classpathentry kind="src" path="homework/src"/>
 	<classpathentry kind="src" path="java/src"/>
-	<classpathentry kind="src" path="javaFx1/JavaFX/JavaFX/Controller/src"/>
-	<classpathentry kind="src" path="javaFx1/JavaFX/JavaFX/FXML/src"/>
-	<classpathentry kind="src" path="javaFx1/JavaFX/JavaFX/Scene/src"/>
-	<classpathentry kind="src" path="javaFx1/JavaFX/JavaFX/Stage/src"/>
-	<classpathentry kind="src" path="javaFx1/JavaFX/JavaFX/데이터전달방법/src"/>
-	<classpathentry kind="src" path="javaFx1/JavaFX/JavaFX/화면이동/src"/>
 	<classpathentry kind="src" path="Progrmmers/src"/>
 	<classpathentry kind="src" path="게시판/src"/>
 	<classpathentry kind="lib" path="AutoLogin/lib/commons-exec-1.4.0.jar"/>
